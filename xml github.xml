@@ -1,5 +1,5 @@
 # ASIX-Prac3
-<!DOCTYPE empleat SYSTEM "/json1.json">
+<!DOCTYPE empleat SYSTEM "json1.json">
 <empleats>
     <empleat>
       <nom>Pol</nom>
