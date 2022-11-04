@@ -1,16 +1,17 @@
 # ASIX-Prac3
 <!DOCTYPE empleat SYSTEM "json1.json">
 <empleats>
-    <empleat>
+    <empleat1>
       <nom>Pol</nom>
       <cognom>García</cognom>
       <direcció>carrer de freixa 10</direcció>
       <telefòn>678 897 903</telefòn>
-    </empleat>
-    <empleat>
+    </empleat1>
+    
+    <empleat2>
         <nom>Jordi</nom>
         <cognom>Sanchez</cognom>
         <direcció>carrer jardí 12</direcció>
         <telefòn>697 373 234</telefòn>
-    </empleat>
+    </empleat2>
 </empleats>
