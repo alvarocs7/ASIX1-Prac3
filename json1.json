@@ -1,0 +1,22 @@
+{
+    "empleats": {
+        "empleat": [
+            {"nom": "pol"},
+            {"cognom": "García"},
+            {"direcció":"carrer de freixa 10"},
+            {"telefòn":"678 897 903"},
+
+        ]     
+    }       
+}   
+{
+    "empleats": {
+        "empleat": [
+            {"nom": "Jordi"},
+            {"cognom": "Sanchez"},
+            {"direcció":"carrer jardí 12"},
+            {"telefòn":"697 373 234"}
+
+        ]     
+    }       
+}   
