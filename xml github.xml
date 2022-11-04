@@ -1,0 +1,8 @@
+# ASIX-Prac3
+<!DOCTYPE empleatSYSTEM "xml1.xml">
+<empleat>
+      <nom>Pol</nom>
+      <cognom>García</cognom>
+      <direcció>carrer de freixa 10</direcció>
+      <telefòn>678 897 903</telefòn>
+</empleat>
